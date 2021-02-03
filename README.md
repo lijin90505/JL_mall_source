@@ -1,6 +1,8 @@
 # JL商城源码
 介绍
 Java SpringCloud 微服务 商城 源码
+微服务Sping Cloud + uniapp 强强联合，打造的B2C多商户（多店铺）商城系统。
+SaaS多租户、多公众号后台管理、B2C、一套代码多端复用。
 
 https://gitee.com/joolun/JooLun-wx
 
